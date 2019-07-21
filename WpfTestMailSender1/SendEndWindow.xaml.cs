@@ -27,6 +27,7 @@ namespace WpfTestMailSender1
         private void BtnOK_Click(object sender, RoutedEventArgs e)
         {
             Close();
+            Close();
         }
     }
 }
